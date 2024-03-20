@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9471C7A2-4512-4536-8BAF-847A70086F8B}|ShoppingCartApp\\ShoppingCartApp.csproj|c:\\users\\kianc\\source\\repos\\shoppingcartapp\\shoppingcartapp\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471C7A2-4512-4536-8BAF-847A70086F8B}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471C7A2-4512-4536-8BAF-847A70086F8B}|ShoppingCartApp\\ShoppingCartApp.csproj|C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\shoppingcartapp\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471C7A2-4512-4536-8BAF-847A70086F8B}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471C7A2-4512-4536-8BAF-847A70086F8B}|ShoppingCartApp\\ShoppingCartApp.csproj|C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\shoppingcartapp\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471C7A2-4512-4536-8BAF-847A70086F8B}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471C7A2-4512-4536-8BAF-847A70086F8B}|ShoppingCartApp\\ShoppingCartApp.csproj|C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\shoppingcartapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471C7A2-4512-4536-8BAF-847A70086F8B}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9471C7A2-4512-4536-8BAF-847A70086F8B}|ShoppingCartApp\\ShoppingCartApp.csproj|C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\shoppingcartapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9471C7A2-4512-4536-8BAF-847A70086F8B}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ShoppingCartApp\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\ShoppingCartApp\\ShoppingCart.cs",
+              "RelativeToolTip": "ShoppingCartApp\\ShoppingCart.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:34:57.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectronicsProduct.cs",
+              "DocumentMoniker": "C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\ShoppingCartApp\\ElectronicsProduct.cs",
+              "RelativeDocumentMoniker": "ShoppingCartApp\\ElectronicsProduct.cs",
+              "ToolTip": "C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\ShoppingCartApp\\ElectronicsProduct.cs",
+              "RelativeToolTip": "ShoppingCartApp\\ElectronicsProduct.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:41:45.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClothingProduct.cs",
+              "DocumentMoniker": "C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\ShoppingCartApp\\ClothingProduct.cs",
+              "RelativeDocumentMoniker": "ShoppingCartApp\\ClothingProduct.cs",
+              "ToolTip": "C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\ShoppingCartApp\\ClothingProduct.cs",
+              "RelativeToolTip": "ShoppingCartApp\\ClothingProduct.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:33:16.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\ShoppingCartApp\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingCartApp\\Product.cs",
+              "ToolTip": "C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\ShoppingCartApp\\Product.cs",
+              "RelativeToolTip": "ShoppingCartApp\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:19:58.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\ShoppingCartApp\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingCartApp\\Program.cs",
+              "ToolTip": "C:\\Users\\kianc\\source\\repos\\ShoppingCartApp\\ShoppingCartApp\\Program.cs",
+              "RelativeToolTip": "ShoppingCartApp\\Program.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAwwKkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:16:38.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
